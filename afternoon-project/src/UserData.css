@@ -1,0 +1,16 @@
+.Name {
+   text-decoration: underline rgb(66, 146, 192);
+}
+
+.first-list{
+   margin-bottom: 40px;
+}
+
+.list-item {
+   font-weight: bolder;
+}
+
+.movies {
+   margin-left: 50px;
+   
+}
